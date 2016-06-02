@@ -13,9 +13,9 @@
                     <div class="panel-heading">Contact Info</div>
                     <div class="panel-body">
                         <address>
-                            <strong>Tom Tsiliopoulos</strong><br>
-                            1 Toronto Street<br>
-                            Barrie, ON L9L 9L9<br>
+                            <strong>Irin Avery</strong><br>
+                            548 Lakeshore Road East<br>
+                            Oro, ON L0L 2E0br>
                             <abbr title="Phone">TEL:</abbr>
                             (705) 555-6666
                         </address>
